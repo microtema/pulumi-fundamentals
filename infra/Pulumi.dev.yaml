@@ -1,0 +1,8 @@
+config:
+  infra:backendPort: "3000"
+  infra:database: cart
+  infra:frontendPort: "3001"
+  infra:mongoHost: mongodb://mongo:27017
+  infra:mongoPort: "27017"
+  infra:nodeEnvironment: development
+  infra:protocol: http://
